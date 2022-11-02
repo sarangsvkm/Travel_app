@@ -863,12 +863,14 @@ section
 }
 .why_item
 {
+    height:50%;
 	width: 100%;
 	background: #FFFFFF;
 }
 .why_image
 {
 	width: 100%;
+
 }
 .why_image img
 {
